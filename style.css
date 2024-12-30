@@ -114,6 +114,8 @@
     cursor: pointer;
     position: relative;
     overflow: hidden;
+    text-decoration: none;
+    display: inline-block;
   }
   
   .button:hover {
